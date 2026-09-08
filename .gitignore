@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+myvenv/
+venv/
+ENV/
+env/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output files
+*.pdf
+*.mp4
+*.avi
+*.mov
+*.webm
+*.webm
+*.mkv
+extracted_frames/
+test_frames/
+temp_*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Project specific
+sample_video.mp4
+demo_output.pdf
+output_sop.pdf
+
+# Frontend specific
+frontend/uploads/*.mp4
+frontend/uploads/*.avi
+frontend/uploads/*.mov
+frontend/uploads/*.webm
+frontend/uploads/*.mkv
+frontend/outputs/*.pdf
+frontend/*.db
+frontend/sop_generator.db
+
+# Web app specific
+webapp/uploads/*
+!webapp/uploads/.gitkeep
+webapp/generated_sops/*
+!webapp/generated_sops/.gitkeep
+webapp/*.db
+webapp/video_sop.db
