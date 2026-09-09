@@ -4,7 +4,7 @@
 
 Successfully created a full-stack web application for the Video-to-SOP Generator with user authentication, company management, and professional UI/UX.
 
-**Date**: January 2025  
+**Date**: September 2026  
 **Version**: v2.1 (Web Interface)  
 **Status**: ✅ Production Ready
 
@@ -449,12 +449,8 @@ Successfully transformed the CLI Video-to-SOP Generator into a full-stack web ap
 
 ---
 
-**Repository**: https://github.com/DTOWCZ/Video-to-SOP-Generator  
-**Version**: 2.1 (Web Interface)  
-**Date**: January 2025  
-**Author**: Dominik  
+**Repository**: (https://github.com/TARIQ8099/Video_to_Standard-Operating-Procedure_SOP)  
 **License**: MIT
 
 ---
 
-🚀 **Your Video-to-SOP Generator is now a production-ready web application!**
